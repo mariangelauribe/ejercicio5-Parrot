@@ -1,0 +1,21 @@
+body {
+    background: url(loro.jpg) center center;
+    background-size:cover;
+    color:#fff;
+}
+.big {
+    color:#008014;;
+    font-size: 30px;
+    padding: 6%;
+}
+.big span {
+    color:#fff;
+}
+.title {
+    color:#00ff62;
+    font-weight: bold;
+}
+.caja {
+    background: rgba(0,0,0,0.5);
+    padding: 2%;
+}
